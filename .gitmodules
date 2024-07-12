@@ -1,3 +1,6 @@
 [submodule "cellium-node"]
 	path = cellium-node
 	url = https://github.com/Agent-Artificial/cellium-node
+[submodule "ztm-rust"]
+	path = ztm-rust
+	url = https://github.com/jayson-lennon/ztm-rust
