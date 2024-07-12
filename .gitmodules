@@ -1,0 +1,3 @@
+[submodule "cellium-node"]
+	path = cellium-node
+	url = https://github.com/Agent-Artificial/cellium-node
